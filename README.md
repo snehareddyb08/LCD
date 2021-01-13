@@ -1,3 +1,3 @@
 # LCD
-prediction system
+prediction system.
 ~~f~~
