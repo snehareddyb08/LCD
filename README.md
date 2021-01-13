@@ -1,6 +1,6 @@
 # LCD
 prediction system.
-~~f~~  
+~~f~~  <br>
 sbkjHSKk\
 AKJSK_.
 AKSK
